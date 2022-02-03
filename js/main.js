@@ -1,3 +1,8 @@
+/*Modifichiamo il codice del vecchio esercizio fornito in allegato
+ e modifichiamolo per renderlo funzionante con un array di oggetti
+  al posto dei tre array separati! */
+
+
 const items = [
     {
         photo: 'img/01.jpg',
